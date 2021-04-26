@@ -11,7 +11,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/thothdeus/May
+> git clone https://github.com/thothdeus/MayBot
 ```
 
 ## Instale as dependências:
@@ -19,7 +19,7 @@ Antes de executar o comando abaixo, certifique-se de estar no diretório do proj
 você acabou de clonar!!
 
 ```bash
-> cd May
+> cd MayBot
 > bash install.sh
 ```
 
